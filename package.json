@@ -1,0 +1,24 @@
+{
+  "name": "untitled",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "tsc && node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsjusttriz/Typescript-Boilerplate.git"
+  },
+  "author": "itsjusttriz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsjusttriz/Typescript-Boilerplate/issues"
+  },
+  "homepage": "https://github.com/itsjusttriz/Typescript-Boilerplate#readme",
+  "devDependencies": {
+    "ts-node": "^10.7.0"
+  },
+  "dependencies": {}
+}
